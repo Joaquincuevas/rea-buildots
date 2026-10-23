@@ -1,0 +1,87 @@
+# 08 · Fuentes
+
+- Fecha de consulta de todas las URLs: **2026-10-23**.
+- Método: motor de búsqueda web. La política de red del entorno impidió abrir directamente buildots.com, techcrunch.com, enr.com, ynetnews.com y patents.google.com, así que las citas se basan en los extractos indexados. **Verifica cada URL antes de publicar.**
+- Lista generada a partir de las URLs citadas en `docs/buildots/01-07`.
+
+| # | URL | Usada en |
+|---|---|---|
+| 1 | https://aidirectory.aecmag.com/?p=373 | 05 |
+| 2 | https://apps.autodesk.com/BIM360/RP/List/Search?page=3 | 05 |
+| 3 | https://archive.israel21c.org/israeli-ai-construction-tech-helps-build-nyc-skyscraper/ | 06 |
+| 4 | https://arxiv.org/pdf/2508.05922 | 03 |
+| 5 | https://bimplus.co.uk/buildots-launches-dot-genai-assistant | 02,03 |
+| 6 | https://bimplus.co.uk/buildots-launches-task-and-milestone-monitoring-suite | 01,02,06 |
+| 7 | https://buildots.com/blog/buildots-raises-45m-in-series-d-funding/ | 01 |
+| 8 | https://buildots.com/blog/meet-dot-buildots-ai-assistant/ | 03,04 |
+| 9 | https://buildots.com/careers/co/research/CD.A5B/deep-learning-researcher | 03,04 |
+| 10 | https://buildots.com/product/ | 02 |
+| 11 | https://builtin.com/company/buildots | 01 |
+| 12 | https://calcalistech.com/ctechnews/article/bwpc9e7x9 | 01 |
+| 13 | https://careers.viola-group.com/companies/buildots/jobs/71149919-construction-customer-success-manager | 01,06 |
+| 14 | https://ccsbestpractice.org.uk/entries/buildots-4d-modelling-engine/ | 02,03 |
+| 15 | https://constructionmanagement.co.uk/buildots-launches-task-and-milestone-monitoring-suite/ | 02 |
+| 16 | https://craft.co/buildots | 01 |
+| 17 | https://cryptobriefing.com/buildots-raises-166m-ai-construction-intel/ | 01 |
+| 18 | https://dealroom.launchvic.org/companies/buildots | 02 |
+| 19 | https://en.globes.co.il/en/article-1001337785 | 01 |
+| 20 | https://engineering.com/openspace-acquires-disperse-to-expand-visual-intelligence | 07 |
+| 21 | https://enr.com/articles/52262-build-group-sees-results-with-site-intelligence-app-buildots | 01,05,06 |
+| 22 | https://g2.com/products/buildots-buildots/reviews | 02,04,06 |
+| 23 | https://innovationorigins.com/en/buildots-supplies-construction-helmets-that-chart-construction-workers-progress | 04 |
+| 24 | https://ioplus.nl/archive/en/buildots-supplies-construction-helmets-that-chart-construction-workers-progress/ | 02,04 |
+| 25 | https://iotm2mcouncil.org/iot-library/news/smart-building-construction-news/buildots-increases-autodesk-integration/ | 02,05 |
+| 26 | https://jobs.tlv.partners/companies/buildots/jobs/29426783-deep-learning-researcher | 04 |
+| 27 | https://jobs.tlv.partners/companies/buildots/jobs/81785536-senior-deep-learning-researcher | 03 |
+| 28 | https://jobs.tlv.partners/companies/buildots/jobs/83767807-senior-backend-engineer | 04 |
+| 29 | https://marketplace.autodesk.com/apps/5d0214e5-9653-4142-98ff-e3329a6b07ad | 04,05 |
+| 30 | https://media.fupress.com/files/pdf/24/14498/39659 | 03 |
+| 31 | https://mxp-mp.trimble.com/en/products/projectsight/360-capture | 07 |
+| 32 | https://pages.buildots.com/hubfs/Intel-case%20study-08-Insights.pdf | 06 |
+| 33 | https://pages.buildots.com/intel-case-study | 06 |
+| 34 | https://patents.google.com/patent/CA3136056A1/de | 03 |
+| 35 | https://pitchbook.com/profiles/company/339838-66 | 03 |
+| 36 | https://pocketcasts.com/podcasts/5dd0dc80-4e0f-013a-d6c8-0acc26574db2/742037b9-e03b-49a7-a852-69108ab23c73 | 01 |
+| 37 | https://prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-858902309.html | 01 |
+| 38 | https://pulse2.com/openspace-102-million-series-d-funding-and-902-million-valuation | 07 |
+| 39 | https://rical.ce.gatech.edu/research_23.html | 03 |
+| 40 | https://seedtable.com/companies/reconstruct-inc | 07 |
+| 41 | https://sg.news.yahoo.com/intel-capital-backs-ai-construction-110000229.html | 01 |
+| 42 | https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/ | 01 |
+| 43 | https://therealdeal.com/new-york/2022/05/17/construction-tech-firm-buildots-raises-60m-in-series-c-round/ | 01 |
+| 44 | https://www.autodesk.com/integrations/partner/buildots | 05 |
+| 45 | https://www.calcalistech.com/articles/0,7340,L-40438620,00.html | 01 |
+| 46 | https://www.calcalistech.com/ctech/articles/0,7340,L-3914205,00.html | 01 |
+| 47 | https://www.calcalistech.com/ctechnews/article/sjzqdvgbee | 01 |
+| 48 | https://www.caplight.com/company/doxel | 07 |
+| 49 | https://www.capterra.co.uk/software/210802/buildots | 02 |
+| 50 | https://www.capterra.com/p/210802/Buildots/ | 02,06 |
+| 51 | https://www.cdomagazine.tech/others/buildots-launches-dot-first-genai-assistant-to-answer-real-construction-status-queries | 03 |
+| 52 | https://www.cimdata.com/en/industry-summary-articles/item/25956-buildots-announces-integration-with-autodesk-bim-360-to-automate-field-management-issues-creation | 02,05,06 |
+| 53 | https://www.constructiondive.com/news/dronedeploy-acquires-structionsite-partners-with-avvir/634505/ | 07 |
+| 54 | https://www.constructiondive.com/news/openspace-acquires-disperse-contech-merger/804410/ | 03,07 |
+| 55 | https://www.enr.com/articles/63235-buildots-launches-intelligence-lab-an-ai-powered-project-data-research-hub | 06 |
+| 56 | https://www.iaarc.org/publications/fulltext/026_Enhancing_Robotic_Vision_through_Deep_Learning_Techniques__From_Detection_to_Construction.pdf | 03 |
+| 57 | https://www.insightpartners.com/ideas/doxel-raises-40m-from-insight-a16z-to-become-the-waze-for-construction/ | 07 |
+| 58 | https://www.international-construction.com/news/buildots-introduces-new-ai-powered-tools-to-combat-construction-delays/8030093.article | 02 |
+| 59 | https://www.ironpros.com/home/product/22910159/buildots-buildots-launches-ai-forecasting-for-construction-delays | 02,03 |
+| 60 | https://www.jewishnews.co.uk/buildots-raises-130m-to-expand-construction-ai/ | 01 |
+| 61 | https://www.londonbuildexpo.com/news/builders-could-soon-be-wearing-cameras-on-their-hard-hats-to-gather-data-that-automatically-updates-project-plans | 02 |
+| 62 | https://www.newsru.co.il/science_hitech/15jul2024/buildots.html/amp/ | 01 |
+| 63 | https://www.openspace.ai/platform/capture/ | 07 |
+| 64 | https://www.pbctoday.co.uk/news/digital-construction-news/bim-news/construction-productivity-bim/98470/ | 02 |
+| 65 | https://www.prnewswire.com/il/news-releases/buildots-upgrades-dot-turning-its-ai-assistant-into-an-on-demand-construction-analyst-for-project-teams-302915371.html | 02,03,06 |
+| 66 | https://www.prnewswire.com/il/news-releases/nearly-40-of-planned-weekly-work-on-construction-sites-isnt-delivered-new-buildots-intelligence-lab-global-benchmarks-report-302902316.html | 01,02,03,06 |
+| 67 | https://www.prnewswire.com/news-releases/buildots-launches-intelligence-lab-constructions-first-ai-powered-research-hub-302810700.html | 02,04 |
+| 68 | https://www.prnewswire.com/news-releases/buildots-raises-130m-to-bring-ai-to-the-16t-construction-industry--and-power-the-global-data-center-buildout-302877516.html | 01,06 |
+| 69 | https://www.remio.ai/ja/post/buildots-funding-round-adds-130-million-as-mega-projects-test-construction-ai-ja | 06 |
+| 70 | https://www.startuphub.ai/startups/buildots.md | 01 |
+| 71 | https://www.theconstructionindex.co.uk/news/view/ai-tool-predicts-hold-ups | 01,02,06 |
+| 72 | https://www.theconstructionindex.co.uk/news/view/bim-cams-for-builders?amp=1 | 02 |
+| 73 | https://www.theconstructionindex.co.uk/news/view/buildots-launches-ai-assistant-for-site-managers | 03 |
+| 74 | https://www.thefuture3d.com/software/buildots | 02,06 |
+| 75 | https://www.tipranks.com/private-companies/buildots | 01 |
+| 76 | https://www.trustradius.com/products/buildots/pricing | 02 |
+| 77 | https://www.unite.ai/?p=368621 | 02,03 |
+| 78 | https://www.vktr.com/the-wire/buildots-unveils-ai-powered-forecasting-tool-to-mitigate-construction-delays/ | 02,03,06 |
+| 79 | https://www.ynetnews.com/business/article/bkvw3ybkfx | 01,06 |
