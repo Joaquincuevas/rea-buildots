@@ -1,12 +1,14 @@
 # Notas en bruto · investigación de Buildots · 2026-10-23
 
 ## Método y limitaciones
+
 - Herramienta: motor de búsqueda web (resultados con título, URL y extracto).
 - La política de red del entorno **bloqueó la descarga directa** de buildots.com, techcrunch.com, enr.com, ynetnews.com y patents.google.com (`connect_rejected` / `ENOTFOUND`).
 - Consecuencia: las afirmaciones se basan en los **extractos indexados** de cada URL, no en la lectura completa de la página. Hay que verificarlas abriendo la URL antes de citarlas públicamente.
 - Solo fuentes públicas. Sin zonas con login, sin ingeniería inversa del software de Buildots.
 
 ## Consultas ejecutadas
+
 1. Buildots funding round Series D 2025 2026
 2. Buildots founders Roy Danon Aviv Leibovici Yakir Sudry history
 3. Buildots product modules progress tracking delay forecasting Dot AI assistant
@@ -40,6 +42,7 @@
 31. Buildots Intelligence Lab benchmarks report
 
 ## Extractos clave (literal o casi literal)
+
 - Seed $3M + Series A $13M (jul-2020), liderado por TLV Partners; ~35 empleados; fundada 2018 (TechCrunch, PR Newswire).
 - Globes/Calcalist dan la Serie A como $12,5M (discrepancia).
 - Series B $30M, ago-2021, Lightspeed (Calcalist).
@@ -60,6 +63,7 @@
 - Podcast con Leibovici: "el 90 % de los usuarios obtenía cero valor del producto inicial".
 
 ## Pendiente de verificar
+
 - Integración real con Procore, Primavera P6, MS Project, Synchro 4D, Revizto (solo aparece en el directorio AEC Magazine).
 - Formatos BIM aceptados (IFC, NWD/NWC, RVT).
 - Modelo exacto de cámara (no se encontró ninguna mención a GoPro/Insta360).
